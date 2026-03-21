@@ -256,9 +256,7 @@ python app.py
 
 
 
-Open http://localhost:5000
-
-
+Open https://codecoach-ai-7yl2.onrender.com
 
 \---
 
@@ -268,7 +266,7 @@ Open http://localhost:5000
 
 
 
-\[Watch Demo Video](#) | \[Live Demo](#)
+\[Watch Demo Video](#) | \[Watch Demo Video](https://www.loom.com/share/1f54944088da4cc7abb25ca0572e7b98)
 
 
 
